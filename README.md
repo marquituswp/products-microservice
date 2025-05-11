@@ -1,5 +1,12 @@
 # Product Microservice
 
+Handles product catalog operations with full CRUD functionality.
+
+## Tech Stack
+
+- NestJS
+- Prisma ORM
+
 ## Dev
 
 1. Clonar el repositorio
